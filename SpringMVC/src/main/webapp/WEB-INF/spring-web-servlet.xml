@@ -27,5 +27,5 @@
 	<mvc:resources mapping="/resources/**" location="/resources/" />
 
 	<mvc:annotation-driven />
-    <bean id="demoServiceBasicUsageCron" class="com.web.controller.DemoServiceBasicUsageCron"></bean>
+    <!-- <bean id="demoServiceBasicUsageCron" class="com.web.controller.DemoServiceBasicUsageCron"></bean> -->
 </beans>
